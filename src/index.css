@@ -1,0 +1,22 @@
+
+
+.title{
+    text-decoration: none;
+    font-size: x-large;
+    color: black;
+    margin-right: 200px;
+}
+.navbar-nav .nav-item a{
+    text-decoration: none;
+    margin: 35px;
+    color: black;
+    
+}
+img{
+    width: 450px !important;
+    height: 300;
+}
+.custom-navbar{
+    background-color: rgb(8, 177, 8);
+    padding: 20px;
+}
